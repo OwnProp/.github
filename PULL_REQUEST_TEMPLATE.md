@@ -1,8 +1,8 @@
 # Description of Work
 
-Please include a description of work included for this Pull Request.
-If this Pull Request only implements a portion of a feature/fix make note of that here.
-Also use this space to call out specifics areas of code that could use special attention during code review.
+Jira Link: [OE-XXX](https://ownprop.atlassian.net/browse/OE-XXX)
+
+Include a description of the work including research, list of changes, concerns and any notes.
 
 
 # Type of Change
@@ -15,8 +15,8 @@ Also use this space to call out specifics areas of code that could use special a
 
 # Testing Steps
 
-Please include the steps to testing your feature or bugfix.
-If this Pull Request is developer changes (i.e. you've selected Developer Change above) you can skip this section.
+Please include the steps QA will use to test your changes.
+If you selected Developer Change above you can skip this section.
 
 
 # Definition of Done Checklist
